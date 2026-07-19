@@ -1,0 +1,139 @@
+id,name,category,region,prerequisite_mission
+2064098707771441219,Access Corridor,location,"Maintenance Sector, Clearance 1",Unknown Caller
+2289301517074792515,Archives,location,"Containment Sector, Clearance 5",Threshold
+1555468150369878083,Ashtray Maze (Location) 1,location,"Research Sector, Clearance 1",Unknown Caller
+2337000216639602755,Ashtray Maze (Location) 2,location,"Research Sector, Clearance 1",Unknown Caller
+3339507294723719235,Ashtray Maze (Location) 3,location,"Research Sector, Clearance 6",Finnish Tango
+758460255168626755,Astral Exhibition (Location),location,"Research Sector, Clearance 3",Directorial Override
+2973609715190366275,Astral Plane (Location),location,"Executive Sector, Clearance 0",
+1041716204943343683,Atlas Chamber (Location),location,"Maintenance Sector, Clearance 4",Old Boys' Club
+1311915238637895747,Black Rock Lab,location,"Maintenance Sector, Clearance 4",Old Boys' Club
+2187574210989293635,Black Rock Processing,location,"Maintenance Sector, Clearance 4",Old Boys' Club
+2709853420041814083,Black Rock Quarry (Location),location,"Maintenance Sector, Clearance 5",Old Boys' Club
+2022307981559627843,Board Room,location,"Executive Sector, Clearance 0",
+117390852515840067,Cafeteria,location,"Executive Sector, Clearance 0",Welcome To The Oldest House
+3163362299645591619,Central Containment,location,"Containment Sector, Clearance 1",Unknown Caller
+814721120150372419,Central Executive (Location),location,"Executive Sector, Clearance 0",
+1642711740143435843,Central Maintenance,location,"Maintenance Sector, Clearance 1",Unknown Caller
+1373809018850361411,Central Research (Location),location,"Research Sector, Clearance 1",Unknown Caller
+3465586259453280323,Communications Dept.,location,"Executive Sector, Clearance 0",Welcome To The Oldest House
+522557499559215171,Dead Letters (Location),location,"Executive Sector, Clearance 0",Welcome To The Oldest House
+1146854562899165251,Dimensionnal Research (Location),location,"Research Sector, Clearance 6",Finnish Tango
+773597356915900483,Director's Office,location,"Executive Sector, Clearance 0",
+3455066194474565699,Executive Affairs,location,"Executive Sector, Clearance 0",
+3806102169463963715,Extrasensory Lab,location,"Research Sector, Clearance 3",Directorial Override
+2507365883729805379,Field Training (Location),location,"Maintenance Sector, Clearance 1",Unknown Caller
+1437093792977797187,Firebreak (Containment),location,"Containment Sector, Clearance 5",Threshold
+1964701902611382339,"Firebreak (Research, after Ashtray Maze)",location,"Research Sector, Clearance 6",Finnish Tango
+4315055873801338947,"Firebreak (Research, before Ashtray Maze)",location,"Research Sector, Clearance 1",Unknown Caller
+3185322683640496195,Furnace Chamber,location,"Maintenance Sector, Clearance 2",Unknown Caller
+2679314818606006339,Hedron Chamber,location,"Research Sector, Clearance 6",Finnish Tango
+3128738981813796931,Hotline Chamber,location,"Executive Sector, Clearance 1",Welcome To The Oldest House
+4556287258111344707,HRA Lab,location,"Research Sector, Clearance 3",Directorial Override
+2646423349212905539,Hypnosis Lab,location,"Research Sector, Clearance 3",Directorial Override
+3024341445002117187,Janitor's Office,location,"Maintenance Sector, Clearance 1",Unknown Caller
+937212355837165635,Logistics (Location),location,"Containment Sector, Clearance 1",Unknown Caller
+4369387895154884675,Luck & Probability,location,"Research Sector, Clearance 3",Directorial Override
+1491490556777758787,Mail Room (Location),location,"Executive Sector, Clearance 1",Welcome To The Oldest House
+2744801391344549955,Medical Wing,location,"Containment Sector, Clearance 5",Threshold
+1757674118183518275,NSC Control Room (Location),location,"Maintenance Sector, Clearance 1",Unknown Caller
+3877986331516878915,NSC Coolant Pumps,location,"Maintenance Sector, Clearance 2",Unknown Caller
+962480818860097603,NSC Energy Converters,location,"Maintenance Sector, Clearance 2",Unknown Caller
+782256757559214147,NSC Power Plant (Location),location,"Maintenance Sector, Clearance 2",Unknown Caller
+965716450676539459,Oceanview Motel,location,"Executive Sector, Clearance 1",Welcome To The Oldest House
+2737620262721241155,Ordinary AWE (Location),location,"Containment Sector, Clearance 6",My Brother's Keeper
+782074435847848003,Ordinary Dump,location,"Containment Sector, Clearance 6",My Brother's Keeper
+3016058875578056771,P6 Cell,location,"Containment Sector, Clearance 5",Threshold
+752932012307677251,Panopticon (Location),location,"Containment Sector, Clearance 5",Threshold
+2579701896323006531,Panopticon Entrance,location,"Containment Sector, Clearance 5",Threshold
+960901091364552771,Parakinesiology,location,"Research Sector, Clearance 3",Directorial Override
+916667455544606787,Parapsychology (Location),location,"Research Sector, Clearance 3",Directorial Override
+3288705224809693251,Parapsychology Elevator,location,"Research Sector, Clearance 3",Directorial Override
+4368586068403388483,Pipeworks,location,"Maintenance Sector, Clearance 2",Directorial Override
+1905411046763544643,Pneumatics,location,"Executive Sector, Clearance 0",Welcome To The Oldest House
+2136600535223107651,Prime Candidate Program,location,"Containment Sector, Clearance 6",My Brother's Keeper
+2133271466730291267,Protective Studies,location,"Research Sector, Clearance 3",Directorial Override
+837600169504899139,Pump Station,location,"Maintenance Sector, Clearance 2",Directorial Override
+2700596985843990595,Restricted Area,location,"Maintenance Sector, Clearance 6",The Face Of The Enemy
+653859452174483523,Ritual Division (Location),location,"Research Sector, Clearance 3",Directorial Override
+990867169929494595,Sealed Threshold Checkpoint,location,"Containment Sector, Clearance 1",Unknown Caller
+2385298914393489475,Sealed Threshold Corridor (Location),location,"Containment Sector, Clearance 1",Unknown Caller
+3326855659007590467,Sealed Threshold Hall,location,"Containment Sector, Clearance 1",Unknown Caller
+3402686869597143107,Sector Elevator Hallway (Research),location,"Research Sector, Clearance 1",Unknown Caller
+2800936343241031747,Security,location,"Containment Sector, Clearance 1",Unknown Caller
+3518538947682320451,Sterling AWE,location,"Containment Sector, Clearance 6",Finnish Tango
+2718565215111299139,Synchronicity Lab,location,"Research Sector, Clearance 3",Directorial Override
+2057433209531727939,The Mirror,location,"Research Sector, Clearance 6",
+3848947968720846915,The Pit (Location),location,"Research Sector, Clearance 1",Unknown Caller
+3447910876339175491,Transit Corridor North,location,"Containment Sector, Clearance 6",My Brother's Keeper
+1109576118140338243,Transit Corridor South,location,"Containment Sector, Clearance 1",Unknown Caller
+4199870949261017155,Turntable,location,"Containment Sector, Clearance 1",Unknown Caller
+3207384140399771715,Twisted Passage,location,"Containment Sector, Clearance 5",Threshold
+4440843777061453891,Ventilation (Location),location,"Maintenance Sector, Clearance 1",Unknown Caller
+3828774941913923650,Active Threshold,control_point,"Research Sector, Clearance 5",Threshold
+4485160775771029570,Active Threshold Sublevel,control_point,"Research Sector, Clearance 5",Threshold
+3557493374144528450,Ashtray Maze (Control Point),control_point,"Research Sector, Clearance 6",The Face Of The Enemy
+4568494078158733378,Astral Exhibition (Control Point),control_point,"Research Sector, Clearance 3",Directorial Override
+661494072542625858,Atlas Chamber (Control Point),control_point,"Maintenance Sector, Clearance 4",Old Boys' Club
+2252138036496367682,Black Rock Quarry (Control Point),control_point,"Maintenance Sector, Clearance 6",The Face Of The Enemy
+3085238435342827586,Central Executive (Control Point),control_point,"Executive Sector, Clearance 0",
+436097614263402562,Central Research (Control Point),control_point,"Research Sector, Clearance 3",Directorial Override
+3803465672394408002,Dead Letters (Control Point),control_point,"Executive Sector, Clearance 0",Welcome To The Oldest House
+4131567334945636418,Dimensionnal Research (Control Point),control_point,"Research Sector, Clearance 6",Finnish Tango
+2727916770036449346,Foundation,control_point,"Maintenance Sector, Clearance 6",The Face Of The Enemy
+2732384043034378306,Logistics (Control Point),control_point,"Containment Sector, Clearance 1",Unknown Caller
+1242014113345863746,Mail Room (Control Point),control_point,"Executive Sector, Clearance 0",Welcome To The Oldest House
+2572635364668375106,Mirror Testing,control_point,"Research Sector, Clearance 6",
+1624765739817238594,NSC Control Room (Control Point),control_point,"Maintenance Sector, Clearance 2",Unknown Caller
+1161621894461292610,NSC Coolant Pumps Entrance,control_point,"Maintenance Sector, Clearance 2",Unknown Caller
+1003889749601419330,NSC Coolant Pumps Upper Level,control_point,"Maintenance Sector, Clearance 6",The Face Of The Enemy
+1848325264188866626,NSC Energy Converters Entrance,control_point,"Maintenance Sector, Clearance 2",Unknown Caller
+2134523659081236546,NSC Power Plant (Control Point),control_point,"Maintenance Sector, Clearance 2",Unknown Caller
+2424046364915957826,NSC Power Plant Upper Level,control_point,"Maintenance Sector, Clearance 5",Old Boys' Club
+4230829203450773570,Ordinary AWE (Control Point),control_point,"Containment Sector, Clearance 6",My Brother's Keeper
+585595561972957250,Panopticon (Control Point),control_point,"Containment Sector, Clearance 5",Threshold
+4452200478631510082,Parapsychology (Control Point),control_point,"Research Sector, Clearance 3",Directorial Override
+3004574458620198978,Quarry Entrance,control_point,"Maintenance Sector, Clearance 5",Old Boys' Club
+1581539534083293250,Ritual Division (Control Point),control_point,"Research Sector, Clearance 3",Directorial Override
+3031663017279799362,Sealed Threshold Atrium,control_point,"Containment Sector, Clearance 1",Unknown Caller
+380255882737434690,Sealed Threshold Corridor (Control Point),control_point,"Containment Sector, Clearance 1",Unknown Caller
+2685076060291678274,Sealed Threshold Entrance,control_point,"Containment Sector, Clearance 1",Unknown Caller
+1268817533408968770,The Pit (Control Point),control_point,"Containment Sector, Clearance 1",Unknown Caller
+4442438030554136642,Transit Corridor,control_point,"Containment Sector, Clearance 6",My Brother's Keeper
+3254437736063385666,Upper Panopticon,control_point,"Containment Sector, Clearance 5",Threshold
+2281790796717703234,Ventilation (Control Point),control_point,"Maintenance Sector, Clearance 1",Unknown Caller
+565580819041157200,A Captive Audience,mission,"Research Sector, Clearance 3",Directorial Override
+1241288634697842768,A Matter Of Time,mission,"Containment Sector, Clearance 1",Unknown Caller
+1183100121143296080,A Merry Chase,mission,"Maintenance Sector, Clearance 1",Unknown Caller
+3523254159676309584,Directorial Override,mission,"Maintenance Sector, Clearance 2",Unknown Caller
+1651071613476126800,Dr. Yoshimi Tokui's Guided Imagery Experience,mission,"Research Sector, Clearance 3",Directorial Override
+2518567502949843024,A Good Defense,mission,"Maintenance Sector, Clearance 2",Directorial Override
+2502766102903472208,Finnish Tango,mission,"Maintenance Sector, Clearance 6",The Face Of The Enemy
+1923523956698398800,Fridge Duty,mission,"Containment Sector, Clearance 5",My Brother's Keeper
+2250702182218514512,Langston's Runaways,mission,"Containment Sector, Clearance 5",Fridge Duty
+4038489789543333968,Mold Removal,mission,"Research Sector, Clearance 5",Old Growth
+57980856759812176,Mr. Tommasi,mission,"Containment Sector, Clearance 6",Finnish Tango
+3683110433088634960,My Brother's Keeper,mission,"Containment Sector, Clearance 5",Threshold
+4328110495763972176,Old Boys' Club,mission,"Research Sector, Clearance 3",Directorial Override
+273276597613723728,Old Friends,mission,"Maintenance Sector, Clearance 5",My Brother's Keeper
+4056857014769287248,Old Growth,mission,"Research Sector, Clearance 5",Threshold
+4204364197639946320,Polaris,mission,"Research Sector, Clearance 6",Finnish Tango
+3597283203017621584,Put A Record On,mission,"Executive Sector, Clearance 5",My Brother's Keeper
+2237855493926174800,Self-Reflection,mission,"Research Sector, Clearance 6",
+371954468016324688,Take Control,mission,"Executive Sector, Clearance 6",Polaris
+2674851309930332240,The Enemy Within,mission,"Containment Sector, Clearance 5",A Matter Of Time
+2532946790976684112,The Face Of The Enemy,mission,"Containment Sector, Clearance 6",My Brother's Keeper
+449676378366984272,Threshold,mission,"Maintenance Sector, Clearance 5",Old Boys' Club
+697209774878195792,Unknown Caller,mission,"Executive Sector, Clearance 1",Welcome To The Oldest House
+4262696584514748496,Welcome To The Oldest House,mission,"Executive Sector, Clearance 0",
+953941830480642128,What A Mess: Burn The Trash,mission,"Maintenance Sector, Clearance 2",Unknown Caller
+2849587098303135824,What A Mess: Clear The Clog,mission,"Maintenance Sector, Clearance 2",Directorial Override
+4440328466443042896,What A Mess: Clear The Mold,mission,"Containment Sector, Clearance 5",My Brother's Keeper
+2354193775392768080,What A Mess: Even More Mold,mission,"Maintenance Sector, Clearance 6",The Face Of The Enemy
+2034055190141468752,What A Mess: Take A Break,mission,"Maintenance Sector, Clearance 6",What A Mess: Burn The Trash;What A Mess: Clear The Clog;What A Mess: Clear The Mold;What A Mess: Even More Mold;What A Mess: Talk To The Plants;
+2320047447260905552,What A Mess: Talk To The Plants,mission,"Research Sector, Clearance 5",Threshold
+3059848638952570953,Astral Plane (Sector),sector,"Executive Sector, Clearance 0",
+4309018790484475977,Containment Sector,sector,"Containment Sector, Clearance 1",
+1109274898377834569,Executive Sector,sector,"Executive Sector, Clearance 0",
+3689552543633932361,Maintenance Sector,sector,"Maintenance Sector, Clearance 1",
+3367729802766991433,Research Sector,sector,"Research Sector, Clearance 1",

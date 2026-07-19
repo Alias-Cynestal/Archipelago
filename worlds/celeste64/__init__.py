@@ -19,7 +19,7 @@ class Celeste64WebWorld(WebWorld):
         tutorial_name="Start Guide",
         description="A guide to playing Celeste 64 in Archipelago.",
         language="English",
-        file_name="guide_en.md",
+        file_name="en_control.md",
         link="guide/en",
         authors=["PoryGone"]
     )

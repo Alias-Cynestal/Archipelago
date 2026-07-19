@@ -21,7 +21,7 @@ class CelesteOpenWebWorld(WebWorld):
         tutorial_name="Start Guide",
         description="A guide to playing Celeste (Open World) in Archipelago.",
         language="English",
-        file_name="guide_en.md",
+        file_name="en_control.md",
         link="guide/en",
         authors=["PoryGone"]
     )
