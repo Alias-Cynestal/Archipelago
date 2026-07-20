@@ -19,13 +19,13 @@ jobs:
         run: sudo apt-get install zip
 
       - name: Create apworld
-        run: zip -r control.apworld worlds/control
+        run: cd worlds && zip -r control.apworld ./control
 
       - name: Upload build artifacts
         uses: actions/upload-artifact@v4
         with:
           name: control-apworld-${{ github.sha }}
-          path: control.apworld
+          path: worlds/control.apworld
           if-no-files-found: error
 
       - name: Publish GitHub Release
@@ -34,6 +34,6 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           gh release create "$GITHUB_REF_NAME" \
-            "./control.apworld" \
+            "./worlds/control.apworld" \
             --title "$GITHUB_REF_NAME" \
             --generate-notes
